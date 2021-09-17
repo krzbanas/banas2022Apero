@@ -12,7 +12,7 @@ show_social_links: true
 submit_button_label: Send Message
 title: Contact
 type: form
-url: contact
+url: krzbanas@gmail.com
 ---
 
 ** Contact page don't contain a body, just the front matter above.
