@@ -7,8 +7,7 @@ number_categories: 4 # set to zero to exclude
 show_intro: true
 intro: |
   Short Introduction
-  
- This is a place that helps to get to know me better. 
+  This is a place that helps to get to know me better. 
 show_outro: false
 outro: |
   <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Maëlle Salmon](https://masalmon.eu/) for her help naming this Hugo theme!
