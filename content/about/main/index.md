@@ -8,8 +8,8 @@ show_intro: true
 intro: |
   Short Introduction
   
-  I hope this theme helps you create your own virtual apéro. A place where you and your site's visitors enjoy spending time, and one that helps folks get to know you better. 
-show_outro: true
+ This is a place that helps to get to know me better. 
+show_outro: false
 outro: |
   <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Maëlle Salmon](https://masalmon.eu/) for her help naming this Hugo theme!
 ---
