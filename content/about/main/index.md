@@ -5,8 +5,7 @@ number_featured: 1 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
 number_categories: 4 # set to zero to exclude
 show_intro: true
-intro: |
-  Short Introduction
+intro: |Short Introduction
   
  This is a place that helps to get to know me better. 
 show_outro: false
